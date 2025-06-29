@@ -1,0 +1,3 @@
+kick-message: "&cYou do not have permission to join this server."
+log-denied-joins: true
+required-permission: "essentials.joinfullserver"
