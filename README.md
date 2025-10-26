@@ -1,6 +1,5 @@
 # 🌐 JoinRestrictor
 
-## Description  
 Restrict who can join your Minecraft server by requiring a specific permission.  
 Great for **permission‑whitelisting**, **staff-only test servers**, or **overflow/full‑server routing** with permission‑based exceptions.
 ---
