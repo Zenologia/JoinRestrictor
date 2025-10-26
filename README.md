@@ -11,7 +11,7 @@ Great for **permission‑whitelisting**, **staff-only test servers**, or **overf
 - 🧪 Lightweight & zero‑DB — no stored data, only event handling.
 ---
 ## Requirements
-- Spigot/Paper (1.17+)  
+- Paper (1.17+)  
 - Java 16+  
 - LuckPerms (or any permissions plugin)
 ---
