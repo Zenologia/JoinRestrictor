@@ -56,17 +56,14 @@ Set `required-permission: "server.vip"` and grant to VIP donors.
 **Maintenance Mode:**  
 Set permission to something only admins have during maintenance.
 
-## Build From Source
-```bash
-mvn clean package
-```
-Output jar will be in `target/`.
 
 ## Troubleshooting
 - If all players are kicked → Ensure the required join permission is granted.  
 - If color codes show as `&c` → Use `&` formatting, it is supported.  
 - If reload doesn't work → Ensure you have `joinrestrictor.reload` permission.
 
-## Author & License
-**Author:** Zenologia  
-**License:** MIT or Apache‑2.0 (add LICENSE file)
+## 🧑‍💻 Author
+
+- **Zenologia**
+- [GitHub Repository](https://github.com/Zenologia/JoinRestrictor)
+- [License](https://github.com/Zenologia/ZBedRockBlock/blob/main/LICENSE)
