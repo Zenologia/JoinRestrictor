@@ -2,6 +2,7 @@
 
 Restrict who can join your Minecraft server by requiring a specific permission.  
 Great for **permission‑whitelisting**, **staff-only test servers**, or **overflow/full‑server routing** with permission‑based exceptions.
+
 ---
 ## Features
 - 🔒 Permission‑gated joins — only players with the configured permission may join.  
