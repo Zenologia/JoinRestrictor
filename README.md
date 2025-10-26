@@ -1,4 +1,4 @@
-# JoinRestrictor
+# 🌐 JoinRestrictor
 
 ## Description  
 Restrict who can join your Minecraft server by requiring a specific permission.  
