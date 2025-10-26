@@ -1,8 +1,5 @@
 # JoinRestrictor
 
-[![Java](https://img.shields.io/badge/Java-16%2B-blue)](https://www.oracle.com/java)  
-[![Platform](https://img.shields.io/badge/Platform-Spigot%2FPaper-green)](https://papermc.io/)
-
 ## Description  
 Restrict who can join your Minecraft server by requiring a specific permission.  
 Great for **permission‑whitelisting**, **staff-only test servers**, or **overflow/full‑server routing** with permission‑based exceptions.
