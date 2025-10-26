@@ -73,4 +73,4 @@ Set permission to something only admins have during maintenance.
 
 - **Zenologia**
 - [GitHub Repository](https://github.com/Zenologia/JoinRestrictor)
-- [License](https://github.com/Zenologia/ZBedRockBlock/blob/main/LICENSE)
+- [License](https://github.com/Zenologia/JoinRestrictor/blob/main/LICENSE)
